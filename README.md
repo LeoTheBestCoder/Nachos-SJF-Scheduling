@@ -9,18 +9,15 @@ Special thanks to [Jonathan Huang](https://github.com/JHuang251998)!!!</br>Had i
 1. Install `C-Shell` and `g++`
     ```
     sudo apt-get install csh
-    ```
-    ```
+    
     sudo apt-get install g++
     ```
 1. Download `mips-decstation.linux-xgcc.tar.gz` and unzip at root directory.
     ```
     cd /
-    ```
-    ```
+
     sudo wget --no-check-certificate https://hsn167.cs.nthu.edu.tw/git/root/nachos/-/raw/master/mips-decstation.linux-xgcc.tar.gz
-    ```
-    ```
+
     sudo tar -zxvf mips-decstation.linux-xgcc.tar.gz
     ```
 1. Clone my repository.
@@ -30,11 +27,9 @@ Special thanks to [Jonathan Huang](https://github.com/JHuang251998)!!!</br>Had i
 1. Compile the OS.
     ```
     cd Nachos-SJF-Scheduling/code
-    ```
-    ```
+
     make clean
-    ```
-    ```
+
     make
     ```
 1. Test
