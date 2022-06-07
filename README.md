@@ -1,4 +1,4 @@
-# NTHU CS34233 Operating System Final Project
+# NTHU CS3423 Operating System Final Project
 ## Topic
 Implement **preemptive SJF scheduling** on NachOS
 
