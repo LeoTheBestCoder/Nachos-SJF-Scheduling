@@ -3,7 +3,7 @@
 Implement **preemptive SJF scheduling** on NachOS
 
 ## Acknowledgement
-Special thanks to [Jonathan Huang](https://github.com/JHuang251998)!!!</br>Although we were not in the same team, you still kept discussing with me, which helped me so much! Had it not been for you, I would have failed finishing this project. Thank you again for your generousity and timely assisstant!
+Special thanks to [Jonathan Huang](https://github.com/JHuang251998)!!!</br>Had it not been for you, I would have failed finishing this project. Thank you again for your generousity and timely assisstant!
 
 ## Getting Started
 1. Install `C-Shell` and `g++`
