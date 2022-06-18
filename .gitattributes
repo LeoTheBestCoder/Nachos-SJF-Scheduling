@@ -1,1 +1,8 @@
-.Makefile linguist-language=cpp
+code/threads/Makefile linguist-language=cpp
+code/userprog/Makefile linguist-language=cpp
+code/Makefile linguist-language=cpp
+code/test/Makefile linguist-language=cpp
+code/filesys/Makefile linguist-language=cpp
+code/network/Makefile linguist-language=cpp
+code/bin/Makefile linguist-language=cpp
+c++example/Makefile linguist-language=cpp
